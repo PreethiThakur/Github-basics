@@ -42,6 +42,14 @@
 
 #git reset HEAD~1 - this command undoes commit just made and takes us to point before we commited
 
+#git stash -u - this command is to save unfinished work that yet to commit
+
+#git stash pop - this command pulls unifinished work so we can work on and commit if we want to.
+
+#git rm - f <filename> - this command removes the file from local directory
+
+#git fm -r -f <filename> - this command deletes entire directory
+
 #git log - this command lists all the commits we made
 
 #git reset <commit number from log> - this command undoes(unstage) all changes through the commit number mentioned 
