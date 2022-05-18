@@ -29,6 +29,8 @@ git remote -v - this commands shows all the configurations of remote server
 git branch - this command shows all branches in the local repository
 
 git branch -d <branchname> - this command deletes the branch mentioned
+ 
+git push origin <branchname> - this command pushes local repository branch to the remote repository
 
 
 
