@@ -32,7 +32,7 @@ git branch -d <branchname> - this command deletes the branch mentioned
  
 git push origin <branchname> - this command pushes local repository branch to the remote repository
 
-
+git pull origin master - this command pulls the remote repository to local repository
 
 
  
