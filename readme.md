@@ -34,6 +34,21 @@
 
 #git pull origin master - this command pulls the remote repository to local repository
 
+#git clone <path to repository> - this command creates copy of local repository
+
+#git clone <remote path> - this command creates copy of remote repository
+
+#git reset <filename> or git reset - this command undoes the previous staging like git add
+
+#git reset HEAD~1 - this command undoes commit just made and takes us to point before we commited
+
+#git log - this command lists all the commits we made
+
+#git reset <commit number from log> - this command undoes(unstage) all changes through the commit number mentioned 
+
+#git reset --hard <commit number> - this command will not just unstage but completely remove all commits through the mentioned commit number. All changes we made shall no longer exist.
+
+
 
  
 
