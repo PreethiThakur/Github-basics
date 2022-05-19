@@ -56,6 +56,10 @@
 
 #git reset --hard <commit number> - this command will not just unstage but completely remove all commits through the mentioned commit number. All changes we made shall no longer exist.
 
+#git diff - this command shows the differences in the files yet to be staged or commited
+
+#git show <commit> - this command shows changes of the mentioned commit
+
 
 
  
